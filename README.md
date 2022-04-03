@@ -24,3 +24,11 @@ K-Means Clustering is an Unsupervised Learning Algorithm, which groups the unlab
 
 
 ![image](https://user-images.githubusercontent.com/52431768/150778513-b30a0e44-aab7-4185-9a34-953018e67394.png)
+
+
+
+**Have doubts? Need help? Contact me!**
+
+**LinkedIn:** https://www.linkedin.com/in/dharmaraj-d-1b707898
+
+**Blogs:** https://medium.com/@draj0718
